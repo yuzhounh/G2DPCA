@@ -21,43 +21,43 @@ W,   projection vectors
 
 Major references:
 PCA
-M. Turk and A. Pentland, °∞Eigenfaces for recognition,°± Journal of
-cognitive neuroscience, vol. 3, no. 1, pp. 71®C86, 1991.
+M. Turk and A. Pentland, ‚ÄúEigenfaces for recognition,‚Äù Journal of
+cognitive neuroscience, vol. 3, no. 1, pp. 71‚Äì86, 1991.
 
 PCA-L1
-N. Kwak, °∞Principal component analysis based on L1-norm maximiza-
-tion,°± IEEE Transactions on Pattern Analysis and Machine Intelligence,
-vol. 30, no. 9, pp. 1672®C1680, 2008.
+N. Kwak, ‚ÄúPrincipal component analysis based on L1-norm maximiza-
+tion,‚Äù IEEE Transactions on Pattern Analysis and Machine Intelligence,
+vol. 30, no. 9, pp. 1672‚Äì1680, 2008.
 
 RSPCA
-D. Meng, Q. Zhao, and Z. Xu, °∞Improve robustness of sparse PCA by
-L1-norm maximization,°± Pattern Recognition, vol. 45, no. 1, pp. 487®C
+D. Meng, Q. Zhao, and Z. Xu, ‚ÄúImprove robustness of sparse PCA by
+L1-norm maximization,‚Äù Pattern Recognition, vol. 45, no. 1, pp. 487‚Äì
 497, 2012.
 
 GPCA
-Z. Liang, S. Xia, Y. Zhou, L. Zhang, and Y. Li, °∞Feature extraction
-based on Lp-norm generalized principal component analysis,°± Pattern
-Recognition Letters, vol. 34, no. 9, pp. 1037®C1045, 2013.
+Z. Liang, S. Xia, Y. Zhou, L. Zhang, and Y. Li, ‚ÄúFeature extraction
+based on Lp-norm generalized principal component analysis,‚Äù Pattern
+Recognition Letters, vol. 34, no. 9, pp. 1037‚Äì1045, 2013.
 
 2DPCA
-J. Yang, D. Zhang, A. F. Frangi, and J.-Y. Yang, °∞Two-dimensional
+J. Yang, D. Zhang, A. F. Frangi, and J.-Y. Yang, ‚ÄúTwo-dimensional
 PCA: a new approach to appearance-based face representation and
-recognition,°± IEEE Transactions on Pattern Analysis and Machine
-Intelligence, vol. 26, no. 1, pp. 131®C137, 2004.
+recognition,‚Äù IEEE Transactions on Pattern Analysis and Machine
+Intelligence, vol. 26, no. 1, pp. 131‚Äì137, 2004.
 
 2DPCA-L1
-X. Li, Y. Pang, and Y. Yuan, °∞L1-norm-based 2DPCA,°± IEEE Transac-
+X. Li, Y. Pang, and Y. Yuan, ‚ÄúL1-norm-based 2DPCA,‚Äù IEEE Transac-
 tions on Systems, Man, and Cybernetics, Part B: Cybernetics, vol. 40,
-no. 4, pp. 1170®C1175, 2010.
+no. 4, pp. 1170‚Äì1175, 2010.
 
 2DPCAL1-S
-H. Wang and J. Wang, °∞2DPCA with L1-norm for simultaneously robust
-and sparse modelling,°± Neural Networks, vol. 46, no. 0, pp. 190®C198,
+H. Wang and J. Wang, ‚Äú2DPCA with L1-norm for simultaneously robust
+and sparse modelling,‚Äù Neural Networks, vol. 46, no. 0, pp. 190‚Äì198,
 2013.
 
 G2DPCA
-J. Wang, °∞Generalized 2-D Principal Component Analysis by Lp-Norm for 
-Image Analysis,°± IEEE Transactions on Cybernetics, vol. 46, no. 3, 
+J. Wang, ‚ÄúGeneralized 2-D Principal Component Analysis by Lp-Norm for 
+Image Analysis,‚Äù IEEE Transactions on Cybernetics, vol. 46, no. 3, 
 pp. 792-803, 2016. 
 
 
@@ -66,4 +66,4 @@ Jing Wang
 wangjing0@seu.edu.cn
 yuzhounh@163.com
 
-2016-3-22 11:07:44
+2015-3-22 11:07:44
