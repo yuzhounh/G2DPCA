@@ -1,6 +1,11 @@
 Generalized two dimensional principal component analysis by Lp-norm for image analysis. 
 Copyright (C) 2015 Jing Wang
 
+See two demos in:
+G2DPCA_demo_1, https://github.com/yuzhounh/G2DPCA_demo_1
+G2DPCA_demo_2, https://github.com/yuzhounh/G2DPCA_demo_2
+2018-6-13 22:58:14
+
 For 1D algorithms, the image data should be 2D matrix, nSub*(height*width). 
 For 2D algorithms, the image data should be 3D matrix, height*width*nSub. 
 The images are listed in the subject-by-subject manner. Please refer to the 
