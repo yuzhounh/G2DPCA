@@ -1,7 +1,7 @@
 # Generalized two dimensional principal component analysis by Lp-norm for image analysis. 
 Copyright (C) 2015 Jing Wang
 
-## Two demos:
+Two demos:  
 G2DPCA_demo_1, https://github.com/yuzhounh/G2DPCA_demo_1  
 G2DPCA_demo_2, https://github.com/yuzhounh/G2DPCA_demo_2  
 2018-6-13 22:58:14
