@@ -6,8 +6,8 @@ G2DPCA_demo_1, https://github.com/yuzhounh/G2DPCA_demo_1
 G2DPCA_demo_2, https://github.com/yuzhounh/G2DPCA_demo_2  
 2018-6-13 22:58:14
 
-For 1D algorithms, the image data should be 2D matrix, nSub \times (height \times width).   
-For 2D algorithms, the image data should be 3D matrix, height \times width \times nSub.   
+For 1D algorithms, the image data should be 2D matrix, nSub $\times$ (height $\times$ width).   
+For 2D algorithms, the image data should be 3D matrix, height $\times$ width $\times$ nSub.   
 The images are listed in the subject-by-subject manner. Please refer to the manuscript for more information about the experiments, and refer to the 2DPCAL1-S toolbox (https://github.com/yuzhounh/2DPCAL1-S) for the main script.
 
 # Variables:
